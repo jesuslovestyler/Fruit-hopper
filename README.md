@@ -1,11 +1,8 @@
 # Fruit Hopper
 
-An original run-and-jump platformer — our own hero, world, enemies, art, and code, released to the public domain.
+A free arcade game you play in your browser: hop the fruit through the hazards, one quick jump at a time.
 
-Play as Pip, a cheerful little hopper, across three hand-designed scrolling levels. Stomp patrolling apple, orange, and pear enemies, gather berries for score, and reach the ribbon-gate goal. Three lives, with game-over and victory flows.
+**Live:** https://jesuslovestyler.github.io/Fruit-hopper/
+**Home:** https://jesuslovestyler.com/
 
-On-screen left/right/jump buttons on phones; arrow keys and space on desktop. Variable-height jumping and coyote time for a forgiving feel.
-
-No saved data, no ads, no tracking — a fresh run every visit. The gentlest platformer ever made.
-
-Built with Muse artifacts.
+One self-contained page: no account, no ads, nothing to buy. Released into the public domain (Unlicense — see LICENSE). Built by Tyler with Noki.
